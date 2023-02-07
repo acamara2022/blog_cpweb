@@ -35,12 +35,21 @@ plugins:
 author:
   social:
     github:  acamara2022
-    email: cwebagora2022@gmail.
+    email: cwebagora2022@gmail
+
+menu:
+  - title: Perros
+    url: /perros/
+  - title: Razas
+    url: /razas/
+  - title: About
+    url:   /about/
+
     
 collections:
   featured_categories:
-    permalink:         /:name/
-    output:            true
+    permalink: /:name/
+    output: true
 
 
 # Exclude from processing.
