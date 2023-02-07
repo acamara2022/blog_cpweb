@@ -40,6 +40,8 @@ author:
 menu:
   - title: Perros
     url: /perros/
+  - title: Gatos
+    url: /gatos/
   - title: Razas
     url: /razas/
   - title: About
